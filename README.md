@@ -7,4 +7,4 @@ Additional Links:
 Here is the links to the GTK theme and icons
 - https://draculatheme.com/gtk
 
-![Screenshot](Draula-SS.png)
+![Screenshot](screenshots/Dracula-SS.png)
