@@ -1,5 +1,7 @@
 # Dracula-Dotfiles
 
+# **DEPRECATED**
+
 This is my first rice and first time using github so please go easy on me 
 but here is my draula themed manjaro KDE 
 
